@@ -81,3 +81,7 @@ function remove_all_star_repos() {
 get_all_star_repos
 remove_all_star_repos
 ```
+
+Reference: 
+[1] https://gist.github.com/justlaputa/a6da84981eca963817e652b5f2452cfc <br>
+[2] https://gist.github.com/f9n

@@ -6,10 +6,10 @@ It represents the automatic un-starring feature for GitHub repositories. Using t
 1. Get Github API Autorization `Token` from https://github.com/settings/tokens.
 2. Using this command.
 ```
-git clone https://github.com/DSDanielPark/AutoUnstar.git
-cd AutoUnstar
-export APIKEY=xxxxxxxxxxxxxxxxxxxx
-bash kill_star.sh
+$ git clone https://github.com/DSDanielPark/AutoUnstar.git
+$ cd AutoUnstar
+$ export APIKEY=xxxxxxxxxxxxxxxxxxxx
+$ bash kill_star.sh
 ```
 
 

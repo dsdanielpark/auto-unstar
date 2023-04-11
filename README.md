@@ -1,6 +1,5 @@
-# AutoUnstar
-It represents the automatic un-starring feature for GitHub repositories. Using the following Bash script, you can easily collect all starred repositories and display them in a `stars.txt` file. Then, unstar the repositories listed in the `stars.txt` file.
-
+# Auto Unstar
+A user-friendly Bash script to effortlessly compile a list of starred repositories in a `stars.txt` file, then automatically unstar the listed repos for better GitHub organization.
 <br>
 
 # Quick Start

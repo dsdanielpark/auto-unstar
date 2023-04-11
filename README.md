@@ -50,8 +50,8 @@ done<stars.txt
 
 
 
-## Bash Script
-```
+## Shell Script
+```shell
 #!/usr/bin/env bash
 
 set -o errexit

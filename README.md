@@ -1,6 +1,7 @@
 # AutoUnstar
 It represents the automatic un-starring feature for GitHub repositories. Using the following Bash script, you can easily collect all starred repositories and display them in a `stars.txt` file. Then, unstar the repositories listed in the `stars.txt` file.
 
+<br>
 
 # Quick Start
 1. Get Github API Autorization `Token` from https://github.com/settings/tokens.
@@ -12,6 +13,7 @@ $ export APIKEY=xxxxxxxxxxxxxxxxxxxx
 $ bash run.sh
 ```
 
+<br>
 
 # Manually
 ## How to unstar all repository. 
@@ -47,7 +49,7 @@ sleep .5
 done<stars.txt
 ```
 
-
+<br>
 
 
 ## Shell Script
@@ -82,6 +84,8 @@ get_all_star_repos
 remove_all_star_repos
 ```
 
-Reference: 
+<br>
+
+# References
 [1] https://gist.github.com/justlaputa/a6da84981eca963817e652b5f2452cfc <br>
 [2] https://gist.github.com/f9n

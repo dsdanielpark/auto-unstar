@@ -9,7 +9,7 @@ It represents the automatic un-starring feature for GitHub repositories. Using t
 $ git clone https://github.com/DSDanielPark/AutoUnstar.git
 $ cd AutoUnstar
 $ export APIKEY=xxxxxxxxxxxxxxxxxxxx
-$ bash kill_star.sh
+$ bash run.sh
 ```
 
 

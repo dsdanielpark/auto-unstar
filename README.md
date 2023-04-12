@@ -8,7 +8,7 @@ A user-friendly Bash script to effortlessly compile a list of starred repositori
 ```
 $ git clone https://github.com/DSDanielPark/AutoUnstar.git
 $ cd AutoUnstar
-$ export APIKEY=xxxxxxxxxxxxxxxxxxxx
+$ export APIKEY=xxxxxxxx
 $ bash run.sh
 ```
 

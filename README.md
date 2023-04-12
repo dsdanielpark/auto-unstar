@@ -6,8 +6,8 @@ A user-friendly Bash script to effortlessly compile a list of starred repositori
 1. Get Github API Autorization `Token` from https://github.com/settings/tokens.
 2. Using this command.
 ```
-$ git clone https://github.com/DSDanielPark/AutoUnstar.git
-$ cd AutoUnstar
+$ git clone https://github.com/DSDanielPark/auto-unstar.git
+$ cd auto-unstar
 $ export APIKEY=xxxxxxxx
 $ bash run.sh
 ```

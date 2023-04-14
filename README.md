@@ -3,6 +3,7 @@ Development Status :: 4 - Beta <br>
 
 # Auto Unstar
 A user-friendly Bash script to effortlessly compile a list of starred repositories in a `stars.txt` file, then automatically unstar the listed repositories.
+
 <br>
 
 ## Quick Start

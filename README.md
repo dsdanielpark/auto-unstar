@@ -1,5 +1,4 @@
 Development Status :: 4 - Beta <br>
-*Copyright (c) 2023 MinWoo Park*
 <br>
 
 # Auto Unstar

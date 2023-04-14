@@ -5,7 +5,7 @@ Development Status :: 4 - Beta <br>
 A user-friendly Bash script to effortlessly compile a list of starred repositories in a `stars.txt` file, then automatically unstar the listed repositories.
 <br>
 
-# Quick Start
+## Quick Start
 1. Get Github API Autorization `Token` from https://github.com/settings/tokens.
 2. Using this command.
 ```
@@ -17,7 +17,7 @@ $ bash run.sh
 
 <br>
 
-# Manually
+## Manually
 ## How to unstar all repository. 
 Reference: https://gist.github.com/justlaputa/a6da84981eca963817e652b5f2452cfc
 

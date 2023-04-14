@@ -1,4 +1,4 @@
-Development Status :: 4 - Beta <br>
+Development Status :: 4 - Beta
 ##### *Author 2023 MinWoo Park*
 
 # Auto Unstar
